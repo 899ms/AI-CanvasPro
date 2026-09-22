@@ -1,3 +1,26 @@
+🎉 V0.7.16 版本更新啦！
+
+[previewVideoUrl]: https://www.bilibili.com/video/BV112Yk62EXX
+
+✨ 新增功能：
+- 新增 图像生成节点 runninghub工作流 → Qwen image 2.1 图像编辑
+- 任务完成点击右下角通知效率还是太低了 新增 ”跳转到最新通知“快捷键 按下相当于点击了通知自动跳转到完成任务的节点/界面 在「设置 → 快捷键 → 全局快捷键 → 跳转到最新通知」中自定义。
+🐛 修复与优化：
+- 替换工作室点击变多选BUG
+- 修复 自定义ai应用 RH国际版连接检测失败的BUG
+- 优化 自定义AI应用 创建测试节点仅仅用来预览 不会直接保存到模型列表里面，只有点击 保存配置之后才会保存
+- 优化 启动时延后检测更新
+- 修复 节点放大缩小时左右加号会回弹的BUG
+感谢各位的反馈！！！
+
+SHUO Canvas！Windows 应用版本已发布，欢迎体验！
+windows版本百度网盘下载链接: https://pan.baidu.com/s/1igcxiCGpAd_CFoj9Am2s-g 提取码: 8848
+BUG问题或要新增功能反馈文档
+方法1 里面填写遇到的问题：https://i1etb6xynr.feishu.cn/wiki/N2C3wD6SgisOpek11mfcfJCinkr?from=from_copylink
+方法2 设置-文件与保存-生成诊断包 发到“功能反馈群”并且艾特 “阿硕” （主要是报错的问题）
+
+---
+
 🎉 V0.7.15 版本更新啦！
 
 [previewVideoUrl]: https://www.bilibili.com/video/BV112Yk62EXX
